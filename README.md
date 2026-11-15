@@ -25,12 +25,10 @@ The full checklist is in [`humanizer/SKILL.md`](humanizer/SKILL.md).
 
 ### Claude app (claude.ai, desktop or mobile)
 
-1. Download this repo: click the green **Code** button, then **Download ZIP**.
-2. Unzip it. Inside you'll find a folder called `humanizer` with a `SKILL.md` file in it.
-3. Zip just that `humanizer` folder on its own, so the zip has `humanizer/SKILL.md` at the top.
-4. In Claude, open **Settings → Capabilities** and make sure Skills are turned on.
-5. Under Skills, choose **Upload skill** and pick your zip.
-6. Turn the skill on.
+1. Download `humanizer.zip` from the [latest release](https://github.com/AdityaJainDXB/humanizer/releases/latest). Don't unzip it.
+2. In Claude, open **Settings → Capabilities** and make sure Skills are turned on.
+3. Under Skills, choose **Upload skill** and pick `humanizer.zip`.
+4. Turn the skill on.
 
 Menu names move around now and then. If you can't find them, search "skills" in the [Claude help center](https://support.claude.com).
 
